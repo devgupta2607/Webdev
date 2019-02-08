@@ -1,0 +1,459 @@
+body{
+	background: URL(back.gpg);
+}
+#home{
+	max-width: 1300px;
+	margin: 10px auto;
+	background: white;
+	width: 1000px;
+	height: 3000px;
+}
+#header{
+	width: 1000;
+	
+	margin: 0px auto;
+	height: 160px;
+background: white;
+	
+}
+#logo{
+	width: 150px;
+	height: 150px;
+}
+#contact{
+	float: right;
+
+	margin-top: 50px;
+}
+h1{
+	font-size: 10px;
+}
+h15{
+	font-size: 25px;
+	color: white;
+	margin-left: 50px;
+}
+#logo5{
+	width: 1000px;
+	height: 100px;
+}
+.logo2{
+	width: 1000;
+	
+	margin: 10px auto;
+	height: 100px;
+background: gray;
+	
+}
+#tag{
+	background: gray;
+	height: 60px;
+	-webkit-border-radius: 15px;
+	margin-top: 350px;
+}
+#who{
+	height: 200px;
+	width: 400px;
+	float: left;
+}
+.who{
+	height: 250px;
+	width: 400px;
+	border-left: 4px solid skyblue;
+	float: right;
+	
+}
+p{
+	margin-left: 10px;
+}
+
+#label{
+	height: 100px;
+	background: blue;
+	border: 1px solid blue;
+	-webkit-border-radius: 10px;
+	 
+}
+h14{
+	color: white;
+	font-size: 25px;
+	font-family: Elephant;
+	
+}
+p13{
+	color: white;
+	font-size: 10px;
+}
+#lab{
+	width: 23%;
+	float: left;
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+section{width: 1000px;
+	margin: 0px auto;
+	
+	height: 1500px;
+}
+h1{
+	text-align: center;
+	color: skyblue;
+	font-size: 25px;
+}
+p8.newsdate{
+color: #8F8D8D;
+font-size: 20px;
+margin-left: 5px;
+}	
+span.newsimg{
+	
+	float: right;
+	height: 200px;
+	width: 200px;
+	margin-right: 400px;
+	
+}
+img.newsimg{
+	-webkit-border-radius: 15px;
+	border: 1px solid gray;
+	height: 300px;
+	width: 400px;
+}
+	
+#image{
+	height: 800px;
+	-webkit-border-radius: 10px;
+	-webkit-box-shadow: (110,110,110) 15px 15px 20px;
+	
+}
+pre{
+	margin-left: 10px;
+}
+
+#content{
+	height: 400px;
+	width: 1200px;
+	
+	margin: 20px auto;
+}
+
+p3{
+	text-align: left;
+	color: blue;
+	font-size: 15px;
+	margin: 0px 30px;
+}
+#link{
+	float: right;
+	margin-right: 20px;
+	text-decoration: none;
+	color: black;
+}
+#link:hover{
+	color: blue;
+}
+#content2{
+	height: 310px;
+	width: 1200px;
+	
+	margin: 20px  0px auto;
+}
+h2{
+	text-align: left;
+	color: skyblue;
+	margin-left: 10px;
+	font-size: 25px;
+}
+p3{
+	text-align: left;
+	color: blue;
+	font-size: 15px;
+	margin: 0px 30px;
+}
+#service{
+	float: right;
+}
+#footer{
+	width: 1300px;
+	height: 450px;
+	border: 2px solid;
+	margin: 100px auto;
+	
+}
+#block1,#block2,#block3,#block4{
+	clear: all;
+	float:left;
+	width: 280px;
+	margin:0px 20px 20px;
+	height: 500px;
+
+	
+}
+h4{
+	margin-left: 10px;
+	font-size: 18px;
+}
+p4{
+	color: silver;
+	font-size: 18px;
+	
+}
+p5{
+	color: blue;
+	font-size: 18px;
+}
+p5:hover{
+	color: orange;
+}
+p6{
+	color: orange;
+	font-size: 20px;
+}
+
+h5{
+	font-size: 20px;
+}
+footer{
+	width: 1300px;
+	height: 50px;
+	background: blue;
+	border: 2px solid;
+	margin: 0px auto 0px;
+	position: relative;
+	top: 50px;
+}
+h7{
+	clear: all;
+color: white;
+	font-size: 15px;
+	margin-top: 15px;
+	float: right;
+}
+footer ul li{
+	display: inline-block;
+	margin-left: 15px;
+	
+}
+footer ul{
+	list-style: none;
+	margin-left: -15px;
+	float: left;
+	margin-top: -18px;
+}
+footer ul li a{
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+	
+}
+footer ul li a:hover{
+	color: pink;
+	text-decoration: none;
+}
+
+
+
+#logo1{
+	width: 180px;
+	height: 35px;
+	position: fixed;
+	left: 0px;
+	top: 550px;
+	}
+	#logo1:hover{
+	width: 190px;
+	transition: all .5s;
+	}
+	#logo2{
+	width: 180px;
+	height: 35px;
+	position: fixed;
+	left: 0px;
+	top: 590px;
+	
+	}
+	#logo2:hover{
+	width: 190px;
+	transition: all .5s;
+	}
+	#logo3{
+	width: 180px;
+	height: 35px;
+	position: fixed;
+	left: 0px;
+	top: 630px;
+	}
+	#logo3:hover{
+	width: 190px;
+		transition: all .5s;
+	}
+#alumni{
+		background: gray;
+		opacity: 0.7;
+		z-index: 10;
+		width: 100%;
+		-webkit-border-radius: 15px;
+		height: 60px;
+	}
+div.div1{
+	width: 20%;
+	height: 200px;
+	background: white;
+	border: 1px solid blue;
+	-webkit-border-radius: 15px;
+	-webkit-box-shadow:  rgb(110,110,110) 10px 10px 40px;     
+	float: left;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+#vinod:hover{
+	margin-top: 30px;
+	transition: all 2s;
+}
+	
+
+#vinod{
+	height: 100px;
+	margin-left: 15%;
+	margin-top: 10px;
+}
+
+div.div1 h8{
+	font-family: Segoe UI Black;
+	font-size: 15px;
+	margin-left: 20px;
+	
+}
+div.div1 p7{
+	font-family: Arial Black;
+	font-size:14px;
+	margin-left: 5px;
+}
+div.div1 h9{
+	font-family: Forte;
+	font-size: 18px;
+	margin-left: 0px;
+}
+h10{
+	font-family: Arial Black;
+	color: white;
+	font-size: 20px;
+	line-height: 50px;
+	margin-left: 10px;
+}
+#more{
+	background: lightgray;
+	height: 40px;
+	width: 80px;
+	float: right;
+	margin: 10px 10px;
+	-webkit-border-radius: 25px;
+}
+#more:hover{
+	-webkit-transform: scale(1.2) rotate(10deg);
+	opacity: 10;
+	-webkit-transition: -webkit-transform 1s;
+}
+#more h11{
+	line-height: 40px;
+	margin-left: 15px;
+	font-family: Forte;
+}
+#more:hover{
+	background: darkgray;
+	
+}
+h11:hover{
+	color: white;
+}
+div.nominate{
+	height: 50px;
+	width: 250px;
+	background: #4F4BFC;
+	line-height: 50px;
+	margin-left: 20px;
+	
+	-webkit-border-radius: 15px;
+	-webkit-box-shadow: rgb(110,112,108) 5px 5px 8px;
+}
+h12{
+	color: white;
+	margin-left: 5px;
+	font-size: 20px;
+	
+}
+a.nominate{
+	 text-decoration: none;
+}
+.inner .arrow{
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+	position: relative;
+	top: 20px;
+	left: 10px;
+	
+	width: 40px;
+	height: 40px;
+	
+	
+}
+
+
+#logo1{
+	width: 180px;
+	height: 35px;
+	position: fixed;
+	left: 0px;
+	top: 550px;
+	}
+	#logo1:hover{
+	width: 190px;
+	transition: all .5s;
+	}
+	#logo2{
+	width: 180px;
+	height: 35px;
+	position: fixed;
+	left: 0px;
+	top: 590px;
+	
+	}
+	#logo2:hover{
+	width: 190px;
+	transition: all .5s;
+	}
+	#logo3{
+	width: 180px;
+	height: 35px;
+	position: fixed;
+	left: 0px;
+	top: 630px;
+	}
+	#logo3:hover{
+	width: 190px;
+		transition: all .5s;
+	}
+	
+	#slides{
+		width: 15%;
+		margin-left: 20px;
+		margin-top: 20px;
+		
+	h16{
+		font-size: 45px;
+		font-family: Arial ;
+		text-align: center;
+		margin-left: 100px;
+	}
+
+	h6{
+		color: blue;
+	}
